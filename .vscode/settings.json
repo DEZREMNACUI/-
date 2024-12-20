@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "in.h": "c",
+    "inet.h": "c",
+    "socket.h": "c",
+    "semaphore.h": "c",
+    "types.h": "c",
+    "sem.h": "c",
+    "stdlib.h": "c",
+    "pthread.h": "c"
+  }
+}
